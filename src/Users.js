@@ -80,7 +80,7 @@ export function Users(){
                     variant = "outlined"
                 />
                 <Button
-                className={'btn', 'submit'}
+                className={'btn , submit'}
                     variant = "outlined"
                     color = "primary"
                     style={{backgroundColor:'lightGreen', color:'black'}}
